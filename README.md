@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vinh120203@gmail.com**
 
-- ⚡ Fun fact **I think I'm willing to learn everything about Data, ML-AI, Software Architecture**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
