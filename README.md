@@ -14,8 +14,6 @@
 
 - 👨‍💻 My Project 3D Application is [https://github.com/vinhdnvn/Map3dYear2](https://github.com/vinhdnvn/Map3dYear2)
 
-- 💬 Ask me about **NextJs, ReactJs, Python, MongoDB,**
-
 - 📫 How to reach me **vinh120203@gmail.com**
 
 
