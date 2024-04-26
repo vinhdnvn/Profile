@@ -4,7 +4,6 @@
 <h3 align="center">3rd Year student of Computer Science in VKU (Vietnam - Korea University of Information and Communication Technology)</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/474x/84/aa/32/84aa3231c53ba911ed625eccc3376213.jpg"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhdnvn&label=Profile%20views&color=0e75b6&style=flat" alt="vinhdnvn" /> </p>
 
 - 🌱 I’m currently working on my personal project AI [Smart Algriculture](https://github.com/vinhdnvn/SmartAlgriculture)
 
