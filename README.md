@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/d0/d7/bb/d0d7bbada1102ab691f74678f4a9ccbb.png" width="full">
+
 <h1 align="center">Hi 👋, I'm Vinh Nguyen</h1>
 <h3 align="center">3rd Year student of Computer Science in VKU (Vietnam - Korea University of Information and Communication Technology)</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/474x/84/aa/32/84aa3231c53ba911ed625eccc3376213.jpg">  -->
